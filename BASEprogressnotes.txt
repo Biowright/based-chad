@@ -1,3 +1,6 @@
  Day 1
 - Learning GitHub commits
 - Working on Base ecosystem tasks
+ Day 2
+- learned what BASE is
+- Understood Layer 2 basics

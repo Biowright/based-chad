@@ -4,3 +4,5 @@
  Day 2
 - learned what BASE is
 - Understood Layer 2 basics
+ Day 3
+- minted an Nft on base

@@ -6,3 +6,6 @@
 - Understood Layer 2 basics
  Day 3
 - minted an Nft on base
+ Day 4
+- Learned about Layer 2 scaling
+- Base helps reduce transaction costs

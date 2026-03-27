@@ -9,3 +9,5 @@
  Day 4
 - Learned about Layer 2 scaling
 - Base helps reduce transaction costs
+ Day 5
+- Explored dApps
